@@ -1,4 +1,4 @@
-# 🦀 Product Catalog API (Rust + Axum + Postgres + Redis)
+# 🦀 Sistema de Busca Otimizado para Catálogo de Produtos - MegaStore API
 
 API REST para gerenciamento de produtos construída com Rust, utilizando:
 
